@@ -1,4 +1,4 @@
-## oii, eu sou Karine Félix 👋
+## oii, eu sou Karine Félix 👋👋
 
 <div>
   <a href="https://open.spotify.com/user/qbfsgcim56pvomh6pnvza8v0x" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
